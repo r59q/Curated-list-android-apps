@@ -6,6 +6,7 @@ Make a PR if you want to add your own to the list or feel free to mail me at mai
 ## Free games
 
 - Vampire Survivors - Wave survival game in a charming artstyle. Only has ads to facilitate second chance mechanics
+- DATA WING - A arcade geometry sci-fi racing game. You race by drifting and gain speed by wall-riding as you complete time-based challenges 
 ## Paid games
 
 - Dead Cells - A platforming rogue-like loved by many. 
