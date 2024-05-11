@@ -12,5 +12,5 @@ Make a PR if you want to add your own to the list or feel free to mail me at mai
 - Caves - Turn-based dungeon rogue-like with a great artstyle. It has no popup ads, but a banner ad while in your inventory. By no means a deal-breaker 
 ## Paid games
 
-- Dead Cells - A platforming rogue-like loved by many. 
+- Dead Cells - A platforming rogue-like loved by many. Initially developed for PC, but well-ported to mobile with no compromises.
 - Mini Metro - Subway system design simulator 
