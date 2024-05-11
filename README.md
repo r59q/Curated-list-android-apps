@@ -1,5 +1,5 @@
 # Curated list of Android games
-Nobody likes ads or pay-to-win mechanics. Here's a curated list of ethical and high-quality games for android mobile. 
+Nobody likes excessive ads or pay-to-win mechanics. Here's a curated list of ethical and high-quality games for android mobile. 
 
 Make a PR if you want to add your own to the list or feel free to mail me at mail@r59q.com 
 
@@ -9,6 +9,7 @@ Make a PR if you want to add your own to the list or feel free to mail me at mai
 - DATA WING - A arcade geometry sci-fi racing game. You race by drifting and gain speed by wall-riding as you complete time-based challenges 
 - UnCiv - A retro themed demake of Sid Meiers' Civilisation with a surprising amount of features, including multiplayer 
 - Gamestart Pixel Battle - A pixel-art level-based 2d platformer with bosses and multiple characters 
+- Caves - Turn-based dungeon rogue-like with a great artstyle. It has no popup ads, but a banner ad while in your inventory. By no means a deal-breaker 
 ## Paid games
 
 - Dead Cells - A platforming rogue-like loved by many. 
