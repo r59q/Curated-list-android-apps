@@ -13,5 +13,5 @@ Make a PR if you want to add your own to the list or feel free to mail me at mai
 - Mindustry - Sandbox wave-based tower defence game with resource gathering mechanics and tech tree progression
 ## Paid games
 
-- Dead Cells - A platforming rogue-like loved by many. 
+- Dead Cells - A platforming rogue-like loved by many. Initially developed for PC, but well-ported to mobile with no compromises.
 - Mini Metro - Subway system design simulator 
