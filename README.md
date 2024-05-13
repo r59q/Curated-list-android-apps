@@ -13,5 +13,6 @@ Make a PR if you want to add your own to the list or feel free to mail me at mai
 - Mindustry - Sandbox wave-based tower defence game with resource gathering mechanics and tech tree progression
 ## Paid games
 
-- Dead Cells - A platforming rogue-like loved by many. Initially developed for PC, but well-ported to mobile with no compromises.
+- Dead Cells - A platforming roguelite loved by many. Initially developed for PC, but well-ported to mobile with no compromises.
 - Mini Metro - Subway system design simulator 
+- Pocket Rogues Ultimate - A top-down action dungeon roguelite with classes and level progression. A bit grindy, has a free demo, that's very generous with it's content, named Pocket Rogue. I am not putting it in the free tier because it's obviously the paid version that takes center stage. 
