@@ -10,6 +10,7 @@ Make a PR if you want to add your own to the list or feel free to mail me at mai
 - UnCiv - A retro themed demake of Sid Meiers' Civilisation with a surprising amount of features, including multiplayer 
 - Gamestart Pixel Battle - A pixel-art level-based 2d platformer with bosses and multiple characters 
 - Caves - Turn-based dungeon rogue-like with a great artstyle. It has no popup ads, but a banner ad while in your inventory. By no means a deal-breaker 
+- Mindustry - Sandbox wave-based tower defence game with resource gathering mechanics and tech tree progression
 ## Paid games
 
 - Dead Cells - A platforming rogue-like loved by many. 
